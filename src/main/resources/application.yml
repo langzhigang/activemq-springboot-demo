@@ -1,0 +1,4 @@
+spring:
+  activemq:
+    in-memory: false
+    broker-url: tcp://127.0.0.1:61616
